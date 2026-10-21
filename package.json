@@ -7,7 +7,7 @@
   "main": "index.js",
   "prettier": {
     "singleQuote": true,
-    "semi": false
+    "semi": true
   },
   "scripts": {
     "start": "node index.js",
